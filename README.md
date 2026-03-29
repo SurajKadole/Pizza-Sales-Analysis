@@ -61,4 +61,5 @@ A small number of products contribute to a large portion of revenue
 Seasonal and time-based trends impact sales performance
 📂 Dataset
 
-dashboard screenshot (https://github.com/SurajKadole/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Analysis.png )
+screenshot (https://github.com/SurajKadole/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Analysis.png )
+          (https://github.com/SurajKadole/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Analysis%202.png)
